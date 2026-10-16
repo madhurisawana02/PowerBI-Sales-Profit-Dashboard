@@ -1,5 +1,7 @@
 # Power Bi Sales and Profit Dashboard
 ## Project Overview
+<img width="1367" height="774" alt="Sales_and_Profit_Dashbo" src="https://github.com/user-attachments/assets/1e31a5df-6d63-43cf-9aba-9f522347bd9e" />
+
 This project analysis sales and profit data using Power Bi.
 ## Objectives
 * Analyze total sales and total profit.
